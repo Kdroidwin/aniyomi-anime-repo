@@ -136,46 +136,6 @@
     ]
   },
   {
-    "name": "Aniyomi: Google Drive",
-    "pkg": "eu.kanade.tachiyomi.animeextension.all.googledrive",
-    "apk": "aniyomi-all.googledrive-v14.15.apk",
-    "lang": "all",
-    "code": 15,
-    "version": "14.15",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Google Drive",
-        "lang": "all",
-        "id": "4222017068256633289",
-        "baseUrl": "https://drive.google.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: GoogleDriveIndex",
-    "pkg": "eu.kanade.tachiyomi.animeextension.all.googledriveindex",
-    "apk": "aniyomi-all.googledriveindex-v14.7.apk",
-    "lang": "all",
-    "code": 7,
-    "version": "14.7",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "GoogleDriveIndex",
-        "lang": "all",
-        "id": "7558489246571085102",
-        "baseUrl": "",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: Hikari",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.hikari",
     "apk": "aniyomi-all.hikari-v14.5.apk",
@@ -211,40 +171,6 @@
         "lang": "all",
         "id": "8546813608934181796",
         "baseUrl": "https://jav.guru",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Jellyfin",
-    "pkg": "eu.kanade.tachiyomi.animeextension.all.jellyfin",
-    "apk": "aniyomi-all.jellyfin-v14.15.apk",
-    "lang": "all",
-    "code": 15,
-    "version": "14.15",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Jellyfin (1)",
-        "lang": "all",
-        "id": "1100359934660540567",
-        "baseUrl": "http://127.0.0.1:8096",
-        "versionId": 1
-      },
-      {
-        "name": "Jellyfin (2)",
-        "lang": "all",
-        "id": "5716273013801838310",
-        "baseUrl": "http://127.0.0.1:8096",
-        "versionId": 1
-      },
-      {
-        "name": "Jellyfin (3)",
-        "lang": "all",
-        "id": "7066619062139039107",
-        "baseUrl": "http://127.0.0.1:8096",
         "versionId": 1
       }
     ]
@@ -2286,10 +2212,10 @@
   {
     "name": "Aniyomi: AnimeOnline.Ninja",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.animeonlineninja",
-    "apk": "aniyomi-es.animeonlineninja-v14.39.apk",
+    "apk": "aniyomi-es.animeonlineninja-v14.40.apk",
     "lang": "es",
-    "code": 39,
-    "version": "14.39",
+    "code": 40,
+    "version": "14.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3281,10 +3207,10 @@
   {
     "name": "Aniyomi: MiniOppai",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.minioppai",
-    "apk": "aniyomi-id.minioppai-v14.7.apk",
+    "apk": "aniyomi-id.minioppai-v14.8.apk",
     "lang": "id",
-    "code": 7,
-    "version": "14.7",
+    "code": 8,
+    "version": "14.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3293,7 +3219,7 @@
         "name": "MiniOppai",
         "lang": "id",
         "id": "3422641844834047610",
-        "baseUrl": "https://minioppai.org",
+        "baseUrl": "https://minioppai.biz",
         "versionId": 1
       }
     ]
@@ -3834,6 +3760,46 @@
         "lang": "pt-BR",
         "id": "5203260454758079991",
         "baseUrl": "https://animeshouse.app",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: AnimesOnlineCC",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonlinecc",
+    "apk": "aniyomi-pt.animesonlinecc-v14.2.apk",
+    "lang": "pt-BR",
+    "code": 2,
+    "version": "14.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Animes Online CC",
+        "lang": "pt-BR",
+        "id": "7386550303236826765",
+        "baseUrl": "https://animesonlinecc.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: AnimesOnlineCloud",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonlinecloud",
+    "apk": "aniyomi-pt.animesonlinecloud-v14.2.apk",
+    "lang": "pt-BR",
+    "code": 2,
+    "version": "14.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Animes Online Cloud",
+        "lang": "pt-BR",
+        "id": "6962698096138673113",
+        "baseUrl": "https://animesonline.cloud/",
         "versionId": 1
       }
     ]
