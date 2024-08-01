@@ -1050,46 +1050,6 @@
     ]
   },
   {
-    "name": "Aniyomi: AnimeFlix",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.animeflix",
-    "apk": "aniyomi-en.animeflix-v14.7.apk",
-    "lang": "en",
-    "code": 7,
-    "version": "14.7",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "AnimeFlix",
-        "lang": "en",
-        "id": "7035893907447463920",
-        "baseUrl": "https://animeflix.mobi",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Animeflix.live",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.animeflixlive",
-    "apk": "aniyomi-en.animeflixlive-v14.4.apk",
-    "lang": "en",
-    "code": 4,
-    "version": "14.4",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Animeflix.live",
-        "lang": "en",
-        "id": "8093880877491355644",
-        "baseUrl": "https://animeflix.live",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: AnimeKhor",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animekhor",
     "apk": "aniyomi-en.animekhor-v14.5.apk",
@@ -1772,10 +1732,10 @@
   {
     "name": "Aniyomi: Aniwave",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.nineanime",
-    "apk": "aniyomi-en.nineanime-v14.69.apk",
+    "apk": "aniyomi-en.nineanime-v14.72.apk",
     "lang": "en",
-    "code": 69,
-    "version": "14.69",
+    "code": 72,
+    "version": "14.72",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2907,10 +2867,10 @@
   {
     "name": "Aniyomi: FrAnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.franime",
-    "apk": "aniyomi-fr.franime-v14.11.apk",
+    "apk": "aniyomi-fr.franime-v14.12.apk",
     "lang": "fr",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "14.12",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4374,10 +4334,10 @@
   {
     "name": "Aniyomi: HentaiZM",
     "pkg": "eu.kanade.tachiyomi.animeextension.tr.hentaizm",
-    "apk": "aniyomi-tr.hentaizm-v14.3.apk",
+    "apk": "aniyomi-tr.hentaizm-v14.4.apk",
     "lang": "tr",
-    "code": 3,
-    "version": "14.3",
+    "code": 4,
+    "version": "14.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4386,7 +4346,7 @@
         "name": "HentaiZM",
         "lang": "tr",
         "id": "9058842310298227429",
-        "baseUrl": "https://www.hentaizm.life",
+        "baseUrl": "https://www.hentaizm.pro",
         "versionId": 1
       }
     ]
