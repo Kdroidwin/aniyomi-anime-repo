@@ -2,7 +2,7 @@
 
 just paste this into your anime repo 
 ```
-https://raw.githubusercontent.com/almightyhak/aniyomi-anime-repo/main/index.min.json
+https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json
 ```
 
 ## Support Server
@@ -13,10 +13,14 @@ and please check the discord BEFORE making an issue
 
 ## Contributing
 
-[Source code](https://github.com/almightyhak/aniyomi-extensions) and [Template](https://github.com/aniyomiorg/aniyomi-extensions/blob/master/CONTRIBUTING.md)
+[Source code](https://github.com/Kohi-den/extensions-source) and [Template](https://github.com/aniyomiorg/aniyomi-extensions/blob/master/CONTRIBUTING.md)
 
-If you want to report issues, report them [here](https://github.com/almightyhak/aniyomi-extensions/issues) As for pull requests make them [here](https://github.com/almightyhak/aniyomi-extensions/pulls)
+If you want to report issues, report them [here](https://github.com/Kohi-den/extensions-source/issues/new/choose)
 
-## Contact
+## Disclaimer
 
-almighty_hak on discord
+This project does not have any affiliation with the content providers available.
+This project is not affiliated with Aniyomi.
+Don't ask for help about these extensions at the official support means of Aniyomi.
+
+All credits to the codebase goes to the original contributors.
